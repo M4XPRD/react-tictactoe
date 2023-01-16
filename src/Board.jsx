@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-/* eslint-disable class-methods-use-this */
 import React from 'react';
 import Square from './Square';
 
